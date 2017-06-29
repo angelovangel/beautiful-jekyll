@@ -1,11 +1,7 @@
 ---
 title: "Using R for enzyme kinetics analysis"
 author: "Angel Angelov"
-date:
-output:
-  html_notebook: default
-  html_document: default
-  pdf_document: default
+tags: [R]
 ---
 
 ## The data
