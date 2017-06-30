@@ -1,4 +1,9 @@
-# FitGrowth
+---
+layout: post
+title: FitGrowth app
+tags: [R, Shiny]
+---
+## FitGrowth
 ### a Shiny app for growth curve analysis
 Get it on [GitHub](https://github.com/angelovangel/FitGrowth). You will find also example files for testing there.
 FitGrowth lets you:
