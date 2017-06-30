@@ -6,8 +6,7 @@ published: true
 ---
 
 
-- 
--
+Postdoc in microbiology, fan of R, climbing and [Snarky Puppy](http://www.snarkypuppy.com)
 
 What else do you need?
 
