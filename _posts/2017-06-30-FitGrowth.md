@@ -18,6 +18,7 @@ With FitGrowth you can:
   - Obtain the model parameters as a table
   - Analyse many samples
   - Download all plots and tables
+  
 ![fitgrowth1.png]({{site.baseurl}}/img/fitgrowth1.png)
 ### How it works
 This app fits growth data to the continuous [logistic equation](https://en.wikipedia.org/wiki/Generalised_logistic_function). The best parameters `n0`, `k` and `r` are found using the nonlinear least-squares method `nls` in `R`. The app handles one or many samples (tested with 96), as well as `NA` values. You can get an example file [here](https://www.dropbox.com/sh/zzf7y3ijwkat55e/AABUvp7BAARIdYBqZWgk1E37a?dl=0). The easiest way to run FitGrowth is if you have [RStudio](http://rstudio.org), you just have to paste this in your console:
