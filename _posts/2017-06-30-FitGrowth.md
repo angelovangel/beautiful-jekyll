@@ -31,5 +31,8 @@ You will need these packages, so install them if you haven't done so: `shiny`, `
 Load the data as a text file, the first column *must* be named `time`, all other columns are treated as samples and the columns names are used as sample names. Adjust the file input settings until the data is read into the app. After that, take a look at the other tabs. 
 Note that the parameters of the logistic model are re-calculated when the time interval is changed with the slider.
 
+Feedback and suggestions are welcome!
+
 Cheers!
+
 Angel
