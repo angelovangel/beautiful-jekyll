@@ -9,7 +9,8 @@ date: '2017-06-30'
 ---
 
 FitGrowth is a Shiny app for (bacterial) growth curve analysis I wrote recently.
-You can get it on [GitHub](https://github.com/angelovangel/FitGrowth), where you will find also example files for testing.
+You can get it on [GitHub](https://github.com/angelovangel/FitGrowth), where you will find also example files for testing. For a quick vew, the app is also running on shinyapps.io [here](https://angelov.shinyapps.io/FitGrowth/).
+
 With FitGrowth you can:
   - Upload your own growth data. 
   - Visualize it and fit a model on it. 
@@ -22,7 +23,8 @@ With FitGrowth you can:
 ![fitgrowth1.png]({{site.baseurl}}/img/fitgrowth1.png)
 ![fitgrowth2.png]({{site.baseurl}}/img/fitgrowth2.png)
 ### How it works
-This app fits growth data to the continuous [logistic equation](https://en.wikipedia.org/wiki/Generalised_logistic_function). The best parameters `n0`, `k` and `r` are found using the nonlinear least-squares method `nls` in `R`. The app handles one or many samples (tested with 96), as well as `NA` values. You can get an example file [here](https://www.dropbox.com/sh/zzf7y3ijwkat55e/AABUvp7BAARIdYBqZWgk1E37a?dl=0). The easiest way to run FitGrowth is if you have [RStudio](http://rstudio.org), you just have to paste this in your console:
+This app fits growth data to the continuous [logistic equation](https://en.wikipedia.org/wiki/Generalised_logistic_function). The best parameters `n0`, `k` and `r` are found using the nonlinear least-squares method `nls` in `R`. The app handles one or many samples (tested with 96), as well as `NA` values. You can get an example file [here](https://www.dropbox.com/sh/zzf7y3ijwkat55e/AABUvp7BAARIdYBqZWgk1E37a?dl=0). 
+The easiest way to run FitGrowth locally is if you have [RStudio](http://rstudio.org), you just have to paste this in your console:
 ```r
 shiny::runGitHub('FitGrowth', 'angelovangel')
 ```
