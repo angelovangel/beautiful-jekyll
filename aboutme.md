@@ -6,10 +6,8 @@ published: true
 ---
 
 
-Postdoc in microbiology, fan of R, climbing and [Snarky Puppy](http://www.snarkypuppy.com)
+Postdoc in microbiology, fan of `R`, rock climbing and [Snarky Puppy](http://www.snarkypuppy.com)
 
-What else do you need?
+Mail me if you need more info.
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
