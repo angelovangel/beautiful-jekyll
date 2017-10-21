@@ -12,6 +12,12 @@ I have tested with chromatograms from Chromeleon (some example files can also be
 
 ![A view of the chromatographic traces in the app]({{site.baseurl}}/img/trace1.png)
 
+If you have many samples, a nice comparative overview gives the "simulated TLC" view:
+
+![trace2.png]({{site.baseurl}}/img/trace2.png)
+
+
+
 
 ### Usage  
 the easiest way is to run this in RStudio  
