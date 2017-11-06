@@ -9,43 +9,36 @@ published: true
 I am a postdoc in microbiology, working at the [Technical University of Munich](https://www.tum.de/).   
 
 ***
+## Angel Angelov
 
+address
 
-
-Angel Angelov
-============
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+---
 
 Education
----------
+----------------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2001-2004
+:   **PhD, Microbiology and Bioinformatics**; Georg-August-University (Göttingen)
+    *Thesis title:* Genome sequence analysis and characterization of recombinant enzymes from the 
+    thermoacidophilic archaeon *Picrophilus torridus*
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+1993-1999
+:   **MSc, Molecular biology and Genetics**; St. Kliment Ohridski University (Sofia, Bulgaria)
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
 
-    *Minor: Awesomeology*
+Research interests
+--------------------------
+Microbial genomics, metagenomics, metabolic and enzyme engineering, carbohydrate-active enzymes, biology of extremophilic organisms, microbial genetics, natural transformation
 
 Experience
-----------
+-------------
 
-**Your Most Recent Work Experience:**
+Since 2008
+: **Group leader**, Department of Microbiology, Technical University of Munich, Germany
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
+Short text:
 * First item
-
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
 
@@ -105,6 +98,8 @@ Extra Section, Call it Whatever You Want
 
 * Other sort of impressive-sounding thing you did
 
+
+  
 
 
 
