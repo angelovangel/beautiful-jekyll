@@ -8,12 +8,19 @@ published: true
 
 I am a postdoc in microbiology, working at the [Technical University of Munich](https://www.tum.de/).   
 
+
+## *Curriculum vitae*
+
 ***
 ## Angel Angelov
+Emil-Ramann-Str. 4  
+85354-Freising   
+Germany  
+  
++49-8161715444  
+angelov@tum.de
 
-address
 
----
 
 Education
 ----------------
