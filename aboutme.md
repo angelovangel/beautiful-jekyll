@@ -20,25 +20,29 @@ Education
 
 **2001-2004**
 
-**PhD, Microbiology and Bioinformatics**; Georg-August-University (Göttingen)
+  * **PhD, Microbiology and Bioinformatics**; Georg-August-University (Göttingen)
 
 *Thesis title:* Genome sequence analysis and characterization of recombinant enzymes from the 
 thermoacidophilic archaeon *Picrophilus torridus*
 
 **1993-1999**
 
-**MSc, Molecular biology and Genetics**; St. Kliment Ohridski University (Sofia, Bulgaria)
+  * **MSc, Molecular biology and Genetics**; St. Kliment Ohridski University (Sofia, Bulgaria)
 
 
 Research interests
 --------------------------
-Microbial genomics, metagenomics, metabolic and enzyme engineering, carbohydrate-active enzymes, biology of extremophilic organisms, microbial genetics, natural transformation
+  * microbial genomics, metagenomics and genetics 
+  * metabolic and enzyme engineering, carbohydrate-active enzymes
+  * biology of extremophilic organisms
+  * natural transformation
 
 Experience
 -------------
 
-Since 2008
-:   **Group leader**, Department of Microbiology, Technical University of Munich, Germany
+**Since 2008**
+
+  * **Group leader**, Department of Microbiology, Technical University of Munich, Germany
 
 Short text:
 * First item
