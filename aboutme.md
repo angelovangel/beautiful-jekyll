@@ -27,7 +27,7 @@ Education
 
 **2001-2004**
 
-  * **PhD, Microbiology and Bioinformatics**; Georg-August-University (Göttingen)
+  * **PhD, Microbiology and Bioinformatics**; Georg-August-University Göttingen
 
 *Thesis title:* Genome sequence analysis and characterization of recombinant enzymes from the 
 thermoacidophilic archaeon *Picrophilus torridus*
@@ -49,9 +49,14 @@ Experience
 
 **Since 2008**
 
-  * **Group leader**, Department of Microbiology, Technical University of Munich, Germany
+**Group leader**, Department of Microbiology, Technical University of Munich, Germany
 
-Short text:
-* First item
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+*Research topics*
+* Screening, purification and biochemical characterization of polysaccharide-degrading enzymes from extremophilic microorganisms and from metagenomic libraries
+* Natural transformation in Gram-positive microorganisms
+* Metabolic engineering of Thermus thermophilus and Micrococcus luteus
+
+**2004-2008**
+**Postdoctoral fellow**, Institute of Microbiology and Genetics, Georg-August-University Göttingen
+
+* New cellulolytic and hemicellulolytic enzymes derived from the metagenomes of cellulosic biomass-degrading microbial consortia
