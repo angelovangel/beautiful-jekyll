@@ -68,25 +68,20 @@ Experience
 
 Fields of expertise
 --------------------
-**General and applied microbiology, genetics**
-
+**General and applied microbiology, genetics**  
 Cultivation of extremophilic microorganisms, metabolic engineering, development of genetic tools, natural transformation, type IV pili
 
-**Biochemistry**
-
+**Biochemistry**  
 Protein production, purification and analysis, carbohydrate-active enzymes, carbohydrate-binding modules
 
-**Analytical tecniques**
-
+**Analytical tecniques**  
 Extensive experience in chromatography and spectrometry techniques (FPLC, HPLC, GC-MS), Sanger and Next Generation sequencing, automated liquid handling systems
 
-**Bioinformatics**
-
+**Bioinformatics**  
 Analysis of NGS data, metagenomics, genome sequence assembly and annotation 
 
-**R programming language**
-
-Experienced in exploratory data analysis, visualization and modelling. Shiny development 
+**R programming language**  
+Experienced in exploratory data analysis, visualization and modelling. Shiny development
 * code authored for teaching purposes
 * GitHub repository
 * R-blog
