@@ -81,9 +81,8 @@ Extensive experience in chromatography and spectrometry techniques (FPLC, HPLC, 
 Analysis of NGS data, metagenomics, genome sequence assembly and annotation 
 
 **R programming language**  
-Experienced in exploratory data analysis, visualization and modelling. Shiny development
-* code authored for teaching purposes
-* GitHub repository
-* R-blog
-* example of a Shiny app developed by me
-
+Experienced in exploratory data analysis, visualization and modelling. Shiny app development
+* [code authored for teaching purposes](https://rpubs.com/angelov)
+* GitHub [repository](https://github.com/angelovangel)
+* [R-blog](https://angelovangel.github.io/)
+* example of a Shiny app written by me, [running in the cloud](http://18.194.121.255/shiny/rstudio/fitgrowth/)
