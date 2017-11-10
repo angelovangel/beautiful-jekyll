@@ -25,12 +25,12 @@ angelov@tum.de
 Education
 ----------------
 
-**2001-2004** \| **PhD, Microbiology and Bioinformatics**; Georg-August-University Göttingen
+**2001-2004** \| **PhD, Microbiology and Bioinformatics**; [Georg-August-University Göttingen](https://www.uni-goettingen.de/)
 
 *Thesis title:* Genome sequence analysis and characterization of recombinant enzymes from the 
 thermoacidophilic archaeon *Picrophilus torridus*
 
-**1993-1999** \| **MSc, Molecular biology and Genetics**; St. Kliment Ohridski University (Sofia, Bulgaria)
+**1993-1999** \| **MSc, Molecular biology and Genetics**; [St. Kliment Ohridski University](https://www.uni-sofia.bg/eng) (Sofia, Bulgaria)
 
 
 Research interests
@@ -43,14 +43,14 @@ Research interests
 Experience
 -------------
 
-**Since 2008** \| **Group leader**, Department of Microbiology, Technical University of Munich, Germany
+**Since 2008** \| **Group leader**, [Department of Microbiology](http://mibio.wzw.tum.de/index.php?id=4), Technical University of Munich, Germany
 
 *Research topics*
 * Screening, purification and biochemical characterization of polysaccharide-degrading enzymes from extremophilic microorganisms and from metagenomic libraries
 * Natural transformation in Gram-positive microorganisms
 * Metabolic engineering of *Thermus thermophilus* and *Micrococcus luteus*
 
-**2004-2008** \| **Postdoctoral fellow**, Institute of Microbiology and Genetics, Georg-August-University Göttingen
+**2004-2008** \| **Postdoctoral fellow**, [Institute of Microbiology and Genetics](https://www.uni-goettingen.de/en/11845.html), Georg-August-University Göttingen
 
 * New cellulolytic and hemicellulolytic enzymes derived from the metagenomes of cellulosic biomass-degrading microbial consortia
 
@@ -58,11 +58,11 @@ Experience
 
 * Genome sequence analysis and characterization of recombinant enzymes from the thermoacidophilic archaeon *Picrophilus torridus*
 
-**2000-2001** \| **Research assistant**, National Center of Infectious and Parasitic Diseases, Sofia, Bulgaria
+**2000-2001** \| **Research assistant**, [National Center of Infectious and Parasitic Diseases](http://www.ncipd.org), Sofia, Bulgaria
 
 * Linking HIV genotype variation and antiviral therapy outcome
 
-**1998-1999** \| **Student research assistant**
+**1998-1999** \| **Student research assistant**, [University Obstetrics and Gynecology Hospital](http://maichindom.com/en/)
 
 * Investigation of the frequency of a genetically determined resistance to HIV infection in the Bulgarian population
 
@@ -86,3 +86,43 @@ Experienced in exploratory data analysis, visualization and modelling. Shiny app
 * GitHub [repository](https://github.com/angelovangel)
 * [R-blog](https://angelovangel.github.io/)
 * example of a Shiny app written by me, [running in the cloud](http://18.194.121.255/shiny/rstudio/fitgrowth/)
+
+
+Language skills
+----------------
+Bulgarian - native  
+English - fluent  
+German - fluent  
+
+
+Peer review and editing
+----------------------
+**Since 2013** \| Assistant Editor, [Frontiers in Systems Microbiology]()   
+**Since 2012** \| Reviewer, [American Journal Experts]()   
+**Since 2013** \| Reviewer, [Frontiers in Microbiology]()   
+
+
+
+Selected pulications
+-----------------
+Schiefner A, Angelov A, Liebl W, Skerra A.    
+[Structural basis for cellulose binding by the type A carbohydrate-binding module 64 of *Spirochaeta thermophila*](). **Proteins**. 2016; 84(6):855-8
+
+Angelov A, Bergen P, Nadler F, Hornburg P, Lichev A, Übelacker M, Pachl F, Kuster
+B, Liebl W.   
+[Novel Flp pilus biogenesis-dependent natural transformation](). Frontiers in microbiology. 2015; 6:84
+
+Li H, Angelov A, Pham VT, Leis B, Liebl W. 
+Characterization of chromosomal and megaplasmid partitioning loci in Thermus thermophilus HB27. BMC genomics. 2015;16:317
+
+Angelov A, Li H, Geissler A, Leis B, Liebl W. 
+Toxicity of indoxyl derivative accumulation in bacteria and its use as a new counterselection principle. Systematic and applied microbiology. 2013; 36(8):585-92
+
+Angelov A, Loderer C, Pompei S, Liebl W. 
+Novel family of carbohydrate-binding modules revealed by the genome sequence of Spirochaeta thermophila DSM 6192. Applied and environmental microbiology. 2011; 77(15):5483-9
+
+Angelov A, Mientus M, Liebl S, Liebl W. 
+A two-host fosmid system for functional screening of (meta)genomic libraries from extreme thermophiles. Systematic and applied microbiology. 2009; 32(3):177-85
+
+Fütterer O, Angelov A, Liesegang H, Gottschalk G, Schleper C, Schepers B, Dock C, Antranikian G, Liebl W. 
+Genome sequence of Picrophilus torridus and its implications for life around pH 0. PNAS. 2004; 101(24):9091-6
