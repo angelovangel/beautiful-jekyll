@@ -97,9 +97,9 @@ German - fluent
 
 Peer review and editing
 ----------------------
-**Since 2013** \| Assistant Editor, [Frontiers in Systems Microbiology]()   
-**Since 2012** \| Reviewer, [American Journal Experts]()   
-**Since 2013** \| Reviewer, [Frontiers in Microbiology]()   
+**Since 2013** \| Assistant Editor, [Frontiers in Systems Microbiology](https://www.frontiersin.org/journals/microbiology/sections/systems-microbiology)   
+**Since 2012** \| Reviewer, [American Journal Experts](https://www.aje.com)   
+**Since 2013** \| Reviewer, [Frontiers in Microbiology](https://www.frontiersin.org/journals/microbiology)   
 
 
 
@@ -110,19 +110,19 @@ Schiefner A, Angelov A, Liebl W, Skerra A.
 
 Angelov A, Bergen P, Nadler F, Hornburg P, Lichev A, Übelacker M, Pachl F, Kuster
 B, Liebl W.   
-[Novel Flp pilus biogenesis-dependent natural transformation](). Frontiers in microbiology. 2015; 6:84
+[Novel Flp pilus biogenesis-dependent natural transformation](). **Frontiers in microbiology**. 2015; 6:84
 
-Li H, Angelov A, Pham VT, Leis B, Liebl W. 
-Characterization of chromosomal and megaplasmid partitioning loci in Thermus thermophilus HB27. BMC genomics. 2015;16:317
+Li H, Angelov A, Pham VT, Leis B, Liebl W.   
+[Characterization of chromosomal and megaplasmid partitioning loci in Thermus thermophilus HB27](). **BMC genomics**. 2015;16:317
 
-Angelov A, Li H, Geissler A, Leis B, Liebl W. 
-Toxicity of indoxyl derivative accumulation in bacteria and its use as a new counterselection principle. Systematic and applied microbiology. 2013; 36(8):585-92
+Angelov A, Li H, Geissler A, Leis B, Liebl W.   
+[Toxicity of indoxyl derivative accumulation in bacteria and its use as a new counterselection principle](). **Systematic and applied microbiology**. 2013; 36(8):585-92
 
-Angelov A, Loderer C, Pompei S, Liebl W. 
-Novel family of carbohydrate-binding modules revealed by the genome sequence of Spirochaeta thermophila DSM 6192. Applied and environmental microbiology. 2011; 77(15):5483-9
+Angelov A, Loderer C, Pompei S, Liebl W.   
+[Novel family of carbohydrate-binding modules revealed by the genome sequence of Spirochaeta thermophila DSM 6192]().  **Applied and environmental microbiology**. 2011; 77(15):5483-9
 
-Angelov A, Mientus M, Liebl S, Liebl W. 
-A two-host fosmid system for functional screening of (meta)genomic libraries from extreme thermophiles. Systematic and applied microbiology. 2009; 32(3):177-85
+Angelov A, Mientus M, Liebl S, Liebl W.    
+[A two-host fosmid system for functional screening of (meta)genomic libraries from extreme thermophiles]. **Systematic and applied microbiology**. 2009; 32(3):177-85
 
-Fütterer O, Angelov A, Liesegang H, Gottschalk G, Schleper C, Schepers B, Dock C, Antranikian G, Liebl W. 
-Genome sequence of Picrophilus torridus and its implications for life around pH 0. PNAS. 2004; 101(24):9091-6
+Fütterer O, Angelov A, Liesegang H, Gottschalk G, Schleper C, Schepers B, Dock C, Antranikian G, Liebl W.   
+[Genome sequence of Picrophilus torridus and its implications for life around pH 0](). **PNAS**. 2004; 101(24):9091-6
