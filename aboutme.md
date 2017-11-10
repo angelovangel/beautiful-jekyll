@@ -122,7 +122,7 @@ Angelov A, Loderer C, Pompei S, Liebl W.
 [Novel family of carbohydrate-binding modules revealed by the genome sequence of Spirochaeta thermophila DSM 6192](https://www.ncbi.nlm.nih.gov/pubmed/21685171).  **Applied and environmental microbiology**. 2011; 77(15):5483-9
 
 Angelov A, Mientus M, Liebl S, Liebl W.    
-[A two-host fosmid system for functional screening of (meta)genomic libraries from extreme thermophiles]. **Systematic and applied microbiology**. 2009; 32(3):177-85
+[A two-host fosmid system for functional screening of (meta)genomic libraries from extreme thermophiles](https://www.ncbi.nlm.nih.gov/pubmed/19285378). **Systematic and applied microbiology**. 2009; 32(3):177-85
 
 Fütterer O, Angelov A, Liesegang H, Gottschalk G, Schleper C, Schepers B, Dock C, Antranikian G, Liebl W.   
 [Genome sequence of Picrophilus torridus and its implications for life around pH 0](https://www.ncbi.nlm.nih.gov/pubmed/15184674). **PNAS**. 2004; 101(24):9091-6
