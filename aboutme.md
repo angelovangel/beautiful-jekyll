@@ -21,6 +21,7 @@ Germany
 angelov@tum.de
 
 
+***
 
 Education
 ----------------
@@ -32,6 +33,7 @@ thermoacidophilic archaeon *Picrophilus torridus*
 
 **1993-1999** \| **MSc, Molecular biology and Genetics**; [St. Kliment Ohridski University](https://www.uni-sofia.bg/eng) (Sofia, Bulgaria)
 
+***
 
 Research interests
 --------------------------
@@ -39,6 +41,8 @@ Research interests
   * metabolic and enzyme engineering, carbohydrate-active enzymes
   * biology of extremophilic organisms
   * natural transformation
+
+***
 
 Experience
 -------------
@@ -66,6 +70,8 @@ Experience
 
 * Investigation of the frequency of a genetically determined resistance to HIV infection in the Bulgarian population
 
+***
+
 Fields of expertise
 --------------------
 **General and applied microbiology, genetics**  
@@ -87,6 +93,7 @@ Experienced in exploratory data analysis, visualization and modelling. Shiny app
 * [R-blog](https://angelovangel.github.io/)
 * example of a Shiny app written by me, [running in the cloud](http://18.194.121.255/shiny/rstudio/fitgrowth/)
 
+***
 
 Language skills
 ----------------
@@ -94,6 +101,7 @@ Bulgarian - native
 English - fluent  
 German - fluent  
 
+***
 
 Peer review and editing
 ----------------------
@@ -101,7 +109,7 @@ Peer review and editing
 **Since 2012** \| Reviewer, [American Journal Experts](https://www.aje.com)   
 **Since 2013** \| Reviewer, [Frontiers in Microbiology](https://www.frontiersin.org/journals/microbiology)   
 
-
+***
 
 Selected pulications
 -----------------
