@@ -109,6 +109,8 @@ Peer review and editing
 **Since 2012** \| Reviewer, [American Journal Experts](https://www.aje.com)   
 **Since 2013** \| Reviewer, [Frontiers in Microbiology](https://www.frontiersin.org/journals/microbiology)   
 
+Numerous ad hoc reviews for the journals Applied and Environmental Microbiology, Journal of Bacteriology, Extremophiles, Biotechnology for Biofuels, BMC Genomics, Systematic and Applied Microbiology, Scientific Reports ...
+
 ***
 
 Selected pulications
