@@ -136,6 +136,5 @@ Angelov A, Mientus M, Liebl S, Liebl W.
 
 Fütterer O, Angelov A, Liesegang H, Gottschalk G, Schleper C, Schepers B, Dock C, Antranikian G, Liebl W.   
 [Genome sequence of Picrophilus torridus and its implications for life around pH 0](https://www.ncbi.nlm.nih.gov/pubmed/15184674). **PNAS**. 2004; 101(24):9091-6
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDY4MTEzOV19
--->
+
+
