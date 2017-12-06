@@ -23,7 +23,7 @@ description: mostly R
 
 # List of links in the navigation bar
 navbar-links:
-   About Me: "aboutme"
+About Me: "aboutme"
     - resume: "resume"
     - cv: "cv"
   Resources:
