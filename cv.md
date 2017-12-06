@@ -1,3 +1,10 @@
+---
+layout: page
+title: cv
+subtitle: null
+published: true
+---
+
 ## *Curriculum vitae*
 
 ***
