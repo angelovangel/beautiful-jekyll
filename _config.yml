@@ -23,9 +23,7 @@ description: mostly R
 
 # List of links in the navigation bar
 navbar-links:
-About Me: "aboutme"
-    - resume: "resume"
-    - cv: "cv"
+  About Me: "aboutme"   
   Resources:
     - papers: "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/9248015/?sort=date&direction=descending"
     - code: "https://github.com/angelovangel"
