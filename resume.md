@@ -10,23 +10,23 @@ published: true
 ## EXPERIENCE
 	
 ### 2008-present
-_Group leader | Technical University of Munich | Munich, Germany_
+**Group leader | Technical University of Munich | Germany**
 - Design and screening of metagenomic libraries, (meta)genome sequence analysis
 - Metabolic engineering of _Thermus thermophilus_ and _Micrococcus luteus_
 - Natural transformation in Gram-positive microorganisms
 
 ### 2004-2008
-_Postdoctoral fellow | Georg-August-University Göttingen | Göttingen, Germany_
+**Postdoctoral fellow | Georg-August-University Göttingen | Germany**
 - Carbohydrate-active enzymes discovery and characterization
 - Microbial genome sequence analysis
 
 ### 2001-2004
-_Research assistant | Georg-August-University Göttingen | Göttingen, Germany_
+**Research assistant | Georg-August-University Göttingen | Germany**
 - Genome sequence analysis of _Picrophilus torridus_
 - Characterization of recombinant enzymes from acidophilic Archaea
 
 ### 2000-2001
-_Research assistant | National Centre of Infectious and Parasitic Diseases | Sofia, Bulgaria_
+**Research assistant | National Centre of Infectious and Parasitic Diseases | Sofia, Bulgaria**
 - Genotype variation and population genetics of HIV 
 - Viral load analysis in HIV patients
 
