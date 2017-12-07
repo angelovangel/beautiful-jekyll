@@ -7,4 +7,5 @@ published: true
 
 
 I am a postdoc in microbiology, working at the [Technical University of Munich](https://www.tum.de/).   
-A short resume of my experience and education can be found [here](https://angelovangel.github.io/resume), and a more complete CV [here](https://angelovangel.github.io/cv).
+If you are interested in my professional experience, skills and education, you can take a look at my [Curriculum Vitae](https://angelovangel.github.io/cv), or at the more compact [Résumé](https://angelovangel.github.io/resume). You may also want to check the scientific [papers](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/9248015/?sort=date&direction=descending) I have authored.   
+This blog is intended to be a collection of posts about apps and guides I write (or sometimes just useful code junks), mostly related to the R programming language.  
