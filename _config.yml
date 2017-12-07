@@ -25,8 +25,8 @@ description: mostly R
 navbar-links:
   About Me: "aboutme"   
   Resources:
-    - papers: "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/9248015/?sort=date&direction=descending"
-    - code: "https://github.com/angelovangel"
+    - my papers: "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/9248015/?sort=date&direction=descending"
+    - my code: "https://github.com/angelovangel"
   Angel's lab: "http://mibio.wzw.tum.de/index.php?id=14"
   LinkedIn profile: "https://www.linkedin.com/in/angel-angelov-8816603b/"
 
