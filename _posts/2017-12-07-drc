@@ -1,0 +1,11 @@
+---
+layout: post
+title: Dose-response curves with `drc`, the `tidyverse` way
+tags:
+  - R
+published: false
+date: '2017-12-07'
+---
+The `drc` package does a very nice job in modelling dose-response data which is sigmoid. 
+The package provides functions for the analysis of one or multiple non-linear curves with focus on 
+models for concentration-response, dose-response and time-response data. 
