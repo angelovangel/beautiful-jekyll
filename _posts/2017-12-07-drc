@@ -6,6 +6,12 @@ tags:
 published: false
 date: '2017-12-07'
 ---
-The `drc` package does a very nice job in modelling dose-response data which is sigmoid. 
-The package provides functions for the analysis of one or multiple non-linear curves with focus on 
-models for concentration-response, dose-response and time-response data. 
+The `drc` package by Christian Ritz does a very nice job in modelling dose-response biological data, which is often described by a sigmoid curve. 
+The package provides various functions for the analysis of one or multiple non-linear curves and provides also
+nice "self-start" functionality which makes model fitting much easier. 
+
+
+
+
+You could also check the latest paper about `drc` [here](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146021).
+
