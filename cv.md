@@ -114,7 +114,7 @@ Selected pulications
 -----------------
 
 Angelov A, Pham VTT, Übelacker M, Brady S, Leis B, Pill N, Brolle J, Mechelke 
-M, Moerch M, Henrissat B, Liebl W. 
+M, Moerch M, Henrissat B, Liebl W.   
 [A metagenome-derived thermostable β-glucanase with an unusual module architecture which defines the new glycoside hydrolase family GH148](https://www.ncbi.nlm.nih.gov/pubmed/29229913)    
 **Sci Rep**. 2017; 7(1):17306
 
