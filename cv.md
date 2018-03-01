@@ -112,25 +112,38 @@ Numerous ad hoc reviews for the journals Applied and Environmental Microbiology,
 
 Selected pulications
 -----------------
+
+Angelov A, Pham VTT, Übelacker M, Brady S, Leis B, Pill N, Brolle J, Mechelke 
+M, Moerch M, Henrissat B, Liebl W. 
+[A metagenome-derived thermostable β-glucanase with an unusual module architecture which defines the new glycoside hydrolase family GH148](https://www.ncbi.nlm.nih.gov/pubmed/29229913)    
+**Sci Rep**. 2017; 7(1):17306
+
 Schiefner A, Angelov A, Liebl W, Skerra A.    
-[Structural basis for cellulose binding by the type A carbohydrate-binding module 64 of *Spirochaeta thermophila*](https://www.ncbi.nlm.nih.gov/pubmed/26868291). **Proteins**. 2016; 84(6):855-8
+[Structural basis for cellulose binding by the type A carbohydrate-binding module 64 of *Spirochaeta thermophila*](https://www.ncbi.nlm.nih.gov/pubmed/26868291).   
+**Proteins**. 2016; 84(6):855-8
 
 Angelov A, Bergen P, Nadler F, Hornburg P, Lichev A, Übelacker M, Pachl F, Kuster
 B, Liebl W.   
-[Novel Flp pilus biogenesis-dependent natural transformation](https://www.ncbi.nlm.nih.gov/pubmed/25713572). **Frontiers in microbiology**. 2015; 6:84
+[Novel Flp pilus biogenesis-dependent natural transformation](https://www.ncbi.nlm.nih.gov/pubmed/25713572).   
+**Frontiers in microbiology**. 2015; 6:84
 
 Li H, Angelov A, Pham VT, Leis B, Liebl W.   
-[Characterization of chromosomal and megaplasmid partitioning loci in Thermus thermophilus HB27](https://www.ncbi.nlm.nih.gov/pubmed/25909452). **BMC genomics**. 2015;16:317
+[Characterization of chromosomal and megaplasmid partitioning loci in Thermus thermophilus HB27](https://www.ncbi.nlm.nih.gov/pubmed/25909452).   
+**BMC genomics**. 2015;16:317
 
 Angelov A, Li H, Geissler A, Leis B, Liebl W.   
-[Toxicity of indoxyl derivative accumulation in bacteria and its use as a new counterselection principle](https://www.ncbi.nlm.nih.gov/pubmed/23871391). **Systematic and applied microbiology**. 2013; 36(8):585-92
+[Toxicity of indoxyl derivative accumulation in bacteria and its use as a new counterselection principle](https://www.ncbi.nlm.nih.gov/pubmed/23871391).   
+**Systematic and applied microbiology**. 2013; 36(8):585-92
 
 Angelov A, Loderer C, Pompei S, Liebl W.   
-[Novel family of carbohydrate-binding modules revealed by the genome sequence of Spirochaeta thermophila DSM 6192](https://www.ncbi.nlm.nih.gov/pubmed/21685171).  **Applied and environmental microbiology**. 2011; 77(15):5483-9
+[Novel family of carbohydrate-binding modules revealed by the genome sequence of Spirochaeta thermophila DSM 6192](https://www.ncbi.nlm.nih.gov/pubmed/21685171).    
+**Applied and environmental microbiology**. 2011; 77(15):5483-9
 
 Angelov A, Mientus M, Liebl S, Liebl W.    
-[A two-host fosmid system for functional screening of (meta)genomic libraries from extreme thermophiles](https://www.ncbi.nlm.nih.gov/pubmed/19285378). **Systematic and applied microbiology**. 2009; 32(3):177-85
+[A two-host fosmid system for functional screening of (meta)genomic libraries from extreme thermophiles](https://www.ncbi.nlm.nih.gov/pubmed/19285378).   
+**Systematic and applied microbiology**. 2009; 32(3):177-85
 
 Fütterer O, Angelov A, Liesegang H, Gottschalk G, Schleper C, Schepers B, Dock C, Antranikian G, Liebl W.   
-[Genome sequence of Picrophilus torridus and its implications for life around pH 0](https://www.ncbi.nlm.nih.gov/pubmed/15184674). **PNAS**. 2004; 101(24):9091-6
+[Genome sequence of Picrophilus torridus and its implications for life around pH 0](https://www.ncbi.nlm.nih.gov/pubmed/15184674).   
+**PNAS**. 2004; 101(24):9091-6
 
