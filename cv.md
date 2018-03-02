@@ -88,7 +88,7 @@ Experienced in exploratory data analysis, visualization and modelling. Shiny app
 * [code authored for teaching purposes](https://rpubs.com/angelov)
 * GitHub [repository](https://github.com/angelovangel)
 * [R-blog](https://angelovangel.github.io/)
-* example of a Shiny app written by me, [running in the cloud](http://18.194.121.255/shiny/rstudio/fitgrowth/)
+* example of a Shiny app written by me, [running in the cloud](http://35.176.52.165/shiny/rstudio/FitGrowth/)
 
 ***
 
@@ -112,6 +112,7 @@ Numerous ad hoc reviews for the journals Applied and Environmental Microbiology,
 
 Selected pulications
 -----------------
+*for a complete list see my [google scholar](https://scholar.google.com/citations?user=J7YO6I4AAAAJ) or [pubmed](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/9248015/?sort=date&direction=descending) profile*
 
 Angelov A, Pham VTT, Übelacker M, Brady S, Leis B, Pill N, Brolle J, Mechelke 
 M, Moerch M, Henrissat B, Liebl W.   
