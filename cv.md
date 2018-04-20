@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cv
+title: null
 subtitle: null
 published: true
 ---
