@@ -1,5 +1,5 @@
 ---
-layout: page
+#layout: page
 title: null
 subtitle: null
 published: true
