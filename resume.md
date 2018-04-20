@@ -4,7 +4,7 @@ title: Resume
 subtitle: null
 published: true
 ---
-## Angel Angelov PhD
+## Angel Angelov, PhD
 **+49-179-4853057 | angelov@tum.de**
 
 ## EXPERIENCE
