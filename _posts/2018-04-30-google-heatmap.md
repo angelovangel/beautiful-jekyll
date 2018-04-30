@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: google-location-heatmap
 date: '2018-04-30'
 ---
