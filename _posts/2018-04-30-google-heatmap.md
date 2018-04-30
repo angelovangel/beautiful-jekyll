@@ -20,7 +20,7 @@ I wrote this Shiny app a while ago, and now I polished it a bit to put it on Git
 `runGitHub("google-location-heatmap", "angelovangel")`
 
 If you don't have `shiny` installed, do it with `install.packages("shiny")` before doing the above. The app should open in a browser window on your computer. Note that the processing of your `json` file may take a while, depending on its size and the power of your machine.
-- Of course, you can also manually download this repository, open the `app.R` file and press `Run App` in RStudio.
+- Of course, you can also manually download the repository from [here](https://github.com/angelovangel/google-location-heatmap), open the `app.R` file and press `Run App` in RStudio.
 
 Cheers!   
 Angel
