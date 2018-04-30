@@ -1,0 +1,11 @@
+---
+layout: post
+published: false
+title: google-location-heatmap
+subtitle:
+date: '2018-04-30'
+---
+
+# Interactive heatmap of your google location history 
+[google-location-heatmap](https://github.com/angelovangel/google-location-heatmap) is my take on the problem of visualising your location history data from google.
+This Shiny app takes your google location history, which you can download from your google account, and plots it as a heat trace on a map. You can interactively change some of the settings (map opacity, radius and blur of the heatmap) and select the time range you want to see. 
