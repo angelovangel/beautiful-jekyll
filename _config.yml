@@ -23,7 +23,10 @@ description: mostly R
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"   
+  About Me: "aboutme"
+    - cv: "https://angelovangel.github.io/cv"
+    - resume: "https://angelovangel.github.io/resume"
+    - portfolio: "https://angelovangel.github.io/portfolio"
   Resources:
     - papers (pubmed): "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/9248015/?sort=date&direction=descending"
     - papers (google): "https://scholar.google.de/citations?hl=en&user=J7YO6I4AAAAJ"
