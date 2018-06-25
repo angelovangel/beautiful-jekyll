@@ -88,7 +88,7 @@ Experienced in exploratory data analysis, visualization and modelling. Shiny app
 * [code authored for teaching purposes](https://rpubs.com/angelov)
 * GitHub [repository](https://github.com/angelovangel)
 * [R-blog](https://angelovangel.github.io/)
-* example of a Shiny app written by me, [running in the cloud](http://35.176.52.165/shiny/rstudio/FitGrowth/)
+* examples of Shiny apps written by me, [running in the cloud](https://angelovangel.github.io/portfolio)
 
 ***
 
