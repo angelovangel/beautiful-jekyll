@@ -24,7 +24,7 @@ description: mostly R
 # List of links in the navigation bar
 navbar-links:
   About: 
-    - aboutme: "aboutme"
+    - aboutme: "https://angelovangel.github.io/aboutme/"
     - cv: "https://angelovangel.github.io/cv"
     - resume: "https://angelovangel.github.io/resume"
     - portfolio: "https://angelovangel.github.io/portfolio"
