@@ -1,7 +1,7 @@
 ---
 title: "Shiny apps"
 subtitle: "from Angel Angelov"
-output: html_document
+published: true
 ---
 
 
