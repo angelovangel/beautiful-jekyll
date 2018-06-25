@@ -1,8 +1,8 @@
 ---
-layout: page
 title: null
+published: yes
 subtitle: null
-published: true
+layout: page
 ---
 
 
