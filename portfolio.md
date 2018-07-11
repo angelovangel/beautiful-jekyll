@@ -42,7 +42,8 @@ The name says it all.
 
 #### [aRt]()
 
-Nothing useful here, just nice to look at. [Here are links to youtube videos](https://youtu.be/c0gjVgNmK1o) of some gif animations I made of aircraft flight paths, recorded by the [Automatic Dependent Surveillance-Broadcast (ADS-B) and Mode S systems](https://en.wikipedia.org/wiki/Automatic_dependent_surveillance_%E2%80%93_broadcast) (data obtained from the [opensky network](https://opensky-network.org/)).    
+Nothing useful here, just nice to look at. [Here are links to youtube videos](https://youtu.be/c0gjVgNmK1o) of some gif animations I made of aircraft flight paths, recorded by the [Automatic Dependent Surveillance-Broadcast (ADS-B) and Mode S systems](https://en.wikipedia.org/wiki/Automatic_dependent_surveillance_%E2%80%93_broadcast) (data obtained from the [opensky network](https://opensky-network.org/)).
+
 
 ***
 
