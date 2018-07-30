@@ -38,13 +38,13 @@ Make a customizable and interactive heatmap of your location data from Google. F
 
 #### [Interactive map of the openflights data (airports, airlines, routes)](http://35.176.52.165/shiny/rstudio/openflights/)
 
-The name says it all.
+The name says it all. The openflights dataset used in the app is available [here](https://github.com/jpatokal/openflights).
 
 ***
 
-#### [aRt]()
+#### [Live aircraft tracking](http://35.176.52.165/shiny/rstudio/opensky-live/)
 
-Nothing useful here, just nice to look at. [Here are links to youtube videos](https://youtu.be/c0gjVgNmK1o) of some gif animations I made of aircraft flight paths, recorded by the [Automatic Dependent Surveillance-Broadcast (ADS-B) and Mode S systems](https://en.wikipedia.org/wiki/Automatic_dependent_surveillance_%E2%80%93_broadcast) (data obtained from the [opensky network](https://opensky-network.org/)).
+Real time flight paths from all over the world (or at least where [ADS-B and Mode S systems](https://en.wikipedia.org/wiki/Automatic_dependent_surveillance_%E2%80%93_broadcast) are available). The live data is fetched from the [opensky network](https://opensky-network.org/) and from [ADS-B Exchange](https://www.adsbexchange.com/) in ~5 sec intervals.
 
 
 ***
