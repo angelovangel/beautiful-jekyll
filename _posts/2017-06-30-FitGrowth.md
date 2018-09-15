@@ -9,7 +9,7 @@ date: '2017-06-30'
 ---
 
 FitGrowth is a Shiny app for (bacterial) growth curve analysis I wrote recently.
-You can get it on [GitHub](https://github.com/angelovangel/FitGrowth), where you will find also example files for testing. For a quick vew, the app is also running on shinyapps.io [here](https://angelov.shinyapps.io/FitGrowth/).
+You can get it on [GitHub](https://github.com/angelovangel/FitGrowth), where you will find also example files for testing. For a quick vew, the app is also running on the amazon cloud [here](http://35.176.52.165/shiny/rstudio/FitGrowth/v02-drc/).
 
 With FitGrowth you can:
   - Upload your own growth data. 
