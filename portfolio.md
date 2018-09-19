@@ -11,7 +11,7 @@ This is just a collection of links to Shiny apps I have written. Most apps are r
 
 ***
 
-#### [FitGrowth](http://35.176.52.165/shiny/rstudio/FitGrowth/v02-drc/)
+#### [FitGrowth](http://35.176.52.165/shiny/rstudio/FitGrowth/v03/)
 
 Upload a text file with growth data (optical density, CFU, etc. *vs* time) and obtain the parameters of a logistic regression model.
 (Old version available [here](http://35.176.52.165/shiny/rstudio/FitGrowth/v01/)).
