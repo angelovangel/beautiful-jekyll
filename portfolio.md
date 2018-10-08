@@ -18,6 +18,12 @@ Upload a text file with growth data (optical density, CFU, etc. *vs* time) and o
 
 ***
 
+#### [cazytable](http://35.176.52.165/shiny/rstudio/cazytable/)
+
+Find CAZy (carbohydrate-active enzymes) modules in uploaded proteins. This application runs `hmmscan` from the [HMMER package](http://hmmer.org/) in the background to find CAZy modules in proteins and generates interactive tables with the results. Bacterial-sized proteomes (~ 3-5000 proteins) can be analysed in several minutes.
+
+***
+
 #### [TRACEview](http://35.176.52.165/shiny/rstudio/TRACEview/) 
 
 Visualize a set of HPLC trace files (must be first exported to text files). For many samples, the traces can be stacked and a virtual thin layer chromatography (TLC) plate can be simulated.
