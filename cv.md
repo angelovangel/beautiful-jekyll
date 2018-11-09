@@ -114,6 +114,10 @@ Selected pulications
 -----------------
 *for a complete list see my [google scholar](https://scholar.google.com/citations?user=J7YO6I4AAAAJ) or [pubmed](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/9248015/?sort=date&direction=descending) profile*
 
+Angelov A, Übelacker M, Liebl W.    
+[Variances in cellular sedimentation behavior as an effective enrichment method of hydrocarbon-overproducing *Micrococcus luteus* strains](https://www.ncbi.nlm.nih.gov/pubmed/30377447)   
+**Biotechnol Biofuels**. 2018 ;11:288
+
 Angelov A, Pham VTT, Übelacker M, Brady S, Leis B, Pill N, Brolle J, Mechelke 
 M, Moerch M, Henrissat B, Liebl W.   
 [A metagenome-derived thermostable β-glucanase with an unusual module architecture which defines the new glycoside hydrolase family GH148](https://www.ncbi.nlm.nih.gov/pubmed/29229913)    
@@ -127,10 +131,6 @@ Angelov A, Bergen P, Nadler F, Hornburg P, Lichev A, Übelacker M, Pachl F, Kust
 B, Liebl W.   
 [Novel Flp pilus biogenesis-dependent natural transformation](https://www.ncbi.nlm.nih.gov/pubmed/25713572).   
 **Frontiers in microbiology**. 2015; 6:84
-
-Li H, Angelov A, Pham VT, Leis B, Liebl W.   
-[Characterization of chromosomal and megaplasmid partitioning loci in Thermus thermophilus HB27](https://www.ncbi.nlm.nih.gov/pubmed/25909452).   
-**BMC genomics**. 2015;16:317
 
 Angelov A, Li H, Geissler A, Leis B, Liebl W.   
 [Toxicity of indoxyl derivative accumulation in bacteria and its use as a new counterselection principle](https://www.ncbi.nlm.nih.gov/pubmed/23871391).   
