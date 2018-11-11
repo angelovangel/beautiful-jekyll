@@ -20,7 +20,7 @@ Upload a text file with growth data (optical density, CFU, etc. *vs* time) and o
 
 #### [cazytable](http://35.176.52.165/shiny/rstudio/cazytable/)
 
-Find CAZy (carbohydrate-active enzymes) modules in uploaded proteins. This application runs `hmmscan` from the [HMMER package](http://hmmer.org/) in the background to find CAZy modules in proteins and generates interactive tables with the results. Bacterial-sized proteomes (~ 3-5000 proteins) can be analysed in several minutes.   
+Find CAZy (carbohydrate-active enzymes) modules in uploaded proteins. This application runs `hmmscan` from the [HMMER package](http://hmmer.org/) in the background to find CAZy modules in proteins and generates interactive tables with the results. Bacterial-sized proteomes (~ 3-5000 proteins) can be analyzed in several minutes.   
 **Note**: *while the local version runs OK on my laptop, the app on Amazon cloud often crashes ("disconnected form server" message). I am still investigating this bug, but found that it works if you reload the page and upload the same file a second time...* 
 
 ***
