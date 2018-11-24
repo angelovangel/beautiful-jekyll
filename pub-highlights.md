@@ -1,18 +1,19 @@
 ---
 layout: page
-title: Publication highlights
+title: ""
 subtitle: null
 published: true
 ---
-## Angel Angelov   
+## Lab Angelov   
 
-## Publication highlights
+### Publication highlights
 **for a complete list see [here](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/9248015/?sort=date&direction=descending)**
 <hr>   
 
 [**Variances in cellular sedimentation behavior as an effective enrichment method of
-hydrocarbon-overproducing _Micrococcus luteus_ strains**](https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-018-1286-6) 
+hydrocarbon-overproducing _Micrococcus luteus_ strains**](https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-018-1286-6)    
 _Biotechnol Biofuels. 2018 Oct 20;11:288_   
+
 Angelov A, Übelacker M, Liebl W   
 
 <img style="float: left; margin: 10px 15px 15px 10px;" width = "300" src="imgpubs/img1.png">
@@ -46,6 +47,7 @@ generating and isolating strains with increased olefin productivity.</font>
 _Sci Rep. 2017 Dec 11;7(1):17306_   
 
 Angelov A, Pham VTT, Übelacker M, Brady S, Leis B, Pill N, Brolle J, Mechelke M, Moerch M, Henrissat B, Liebl W   
+
 <img style="float: left;  margin: 10px 15px 15px 10px;" width = "400" src="imgpubs/img2.jpg">   
 
 
