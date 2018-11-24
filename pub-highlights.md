@@ -4,14 +4,14 @@ title: Publication highlights
 subtitle: null
 published: false
 ---
-## Angel Angelov
-<hr>
+## Angel Angelov   
 
 ## Publication highlights
 **for a complete list see [here]()**
+<hr>   
 
 **Variances in cellular sedimentation behavior as an effective enrichment method of
-hydrocarbon-overproducing _Micrococcus luteus_ strains**
+hydrocarbon-overproducing _Micrococcus luteus_ strains**   
 _Biotechnol Biofuels. 2018 Oct 20;11:288_   
 Angelov A, Übelacker M, Liebl W   
 
@@ -40,6 +40,17 @@ that buoyant cell density is the primary cause for the observed differences in
 sedimentation behaviour. The simple separation strategy described here can be a
 valuable tool in various mutagenesis and enrichment protocols, aimed at
 generating and isolating strains with increased olefin productivity.</font>
+<hr>
+
+**A metagenome-derived thermostable β-glucanase with an unusual module architecture which defines the new glycoside hydrolase family GH148**   
+_Sci Rep. 2017 Dec 11;7(1):17306_   
+
+Angelov A, Pham VTT, Übelacker M, Brady S, Leis B, Pill N, Brolle J, Mechelke M, Moerch M, Henrissat B, Liebl W   
+<img style="float: left;" width = "400" src="imgpubs/img2.jpg">   
+
+
+<font size="2" color = "grey">The discovery of novel and robust enzymes for the breakdown of plant biomass bears tremendous potential for the development of sustainable production processes in the rapidly evolving new bioeconomy. By functional screening of a metagenomic library from a volcano soil sample a novel thermostable endo-β-glucanase (EngU) which is unusual with regard to its module architecture and cleavage specificity was identified. Various recombinant EngU variants were characterized. Assignment of EngU to an existing glycoside hydrolase (GH) family was not possible. Two regions of EngU showed weak sequence similarity to proteins of the GH clan GH-A, and acidic residues crucial for catalytic activity of EngU were identified by mutation. Unusual, a carbohydrate-binding module (CBM4) which displayed binding affinity for β-glucan, lichenin and carboxymethyl-cellulose was found as an insertion between these two regions. EngU hydrolyzed β-1,4 linkages in carboxymethyl-cellulose, but displayed its highest activity with mixed linkage (β-1,3-/β-1,4-) glucans such as barley β-glucan and lichenin, where in contrast to characterized lichenases cleavage occurred predominantly at the β-1,3 linkages of C4-substituted glucose residues. EngU and numerous related enzymes with previously unknown function represent a new GH family of biomass-degrading enzymes within the GH-A clan. The name assigned to the new GH family is GH148</font>
+<hr>
 
 
 
