@@ -16,7 +16,7 @@ _Biotechnol Biofuels. 2018 Oct 20;11:288_
 
 Angelov A, Übelacker M, Liebl W   
 
-<img style="float: left; margin: 10px 15px 15px 10px;" width = "300" src="img/img1.png">
+<img style="float: left; margin: 10px 15px 15px 10px;" width = "300" src="/img/img1.png">
 
 <font size="2" color = "grey">
 Background: Aliphatic hydrocarbons of microbial origin are highly interesting
