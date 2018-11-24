@@ -13,7 +13,7 @@ published: true
 [**Variances in cellular sedimentation behavior as an effective enrichment method of
 hydrocarbon-overproducing _Micrococcus luteus_ strains**](https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-018-1286-6)    
 
-<font color = "darkgrey">
+<font color = "grey">
   Biotechnol Biofuels. 2018 Oct 20;11:288.<br>   
   Angelov A, Übelacker M, Liebl W
 </font>   
@@ -48,7 +48,7 @@ generating and isolating strains with increased olefin productivity.</font>
 [**A metagenome-derived thermostable β-glucanase with an unusual module architecture which defines the new glycoside hydrolase family GH148**](https://www.nature.com/articles/s41598-017-16839-8)  
 
    
-<font color = "darkgrey">
+<font color = "grey">
   Sci Rep. 2017 Dec 11;7(1):17306 <br>
   Angelov A, Pham VTT, Übelacker M, Brady S, Leis B, Pill N, Brolle J, Mechelke M, Moerch M, Henrissat B, Liebl W
 </font>   
@@ -62,7 +62,7 @@ generating and isolating strains with increased olefin productivity.</font>
 [**Novel Flp pilus biogenesis-dependent natural transformation**](https://www.frontiersin.org/articles/10.3389/fmicb.2015.00084/full)   
 
      
-<font color = "darkgrey">
+<font color = "grey">
   Front Microbiol. 2015 Feb 10;6:84 <br>
   Angelov A, Bergen P, Nadler F, Hornburg P, Lichev A, Übelacker M, Pachl F, Kuster B, Liebl W</font>   
 
