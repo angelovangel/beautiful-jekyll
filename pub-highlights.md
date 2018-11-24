@@ -13,7 +13,7 @@ published: true
 [**Variances in cellular sedimentation behavior as an effective enrichment method of
 hydrocarbon-overproducing _Micrococcus luteus_ strains**](https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-018-1286-6)    
 
-**Biotechnol Biofuels. 2018 Oct 20;11:288**  
+**Biotechnol Biofuels. 2018 Oct 20;11:288**
 <font color = "grey">Angelov A, Übelacker M, Liebl W</font>   
 
 <img style="float: left; margin: 10px 15px 15px 10px;" width = "300" src="/img/img1.png">
