@@ -27,7 +27,7 @@ navbar-links:
     - aboutme: "https://angelovangel.github.io/aboutme/"
     - cv: "https://angelovangel.github.io/cv"
     - resume: "https://angelovangel.github.io/resume"
-    - publication highlights: "https://angelovangel.github.io/pub-highlights/"
+    - publication-highlights: "https://angelovangel.github.io/pub-highlights/"
     - portfolio: "https://angelovangel.github.io/portfolio"
   Resources:
     - papers (pubmed): "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/9248015/?sort=date&direction=descending"
