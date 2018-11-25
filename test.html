@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: lightgray;
+    
+}
+
+.collapsible:after {
+  content: '\002B';
+  color: black;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.content {
+  padding: 0 18px;
+  /*font-size: 15px;*/
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: white;
+}
+    
+
+</style>
+
+
+<script type="text/javascript" src="js/jquery.sparkline.js"></script>
+
+<script type="text/javascript">
+    $(function() {
+        /** This code runs when everything has been loaded on the page */
+        /* Inline sparklines take their values from the contents of the tag */
+        $('.inlinebar').sparkline('html', {type: 'bar'} ); 
+    })
+</script>
+
+</head>
+<body>
+
+<h2>Publications</h2>
+
+
+<p>Collapsible Set:</p>
+    
+<button class='collapsible'> 2004 </button> 
+<div class='content'> 
+<p>
+  <b>Genome sequence of Picrophilus torridus and its implications for life around pH 0</b>
+  <br/>
+  <i>O Fütterer, A Angelov, H Liesegang, G Gottschalk, C Schleper, ...</i>
+  <br/>
+  Proceedings of the National Academy of Sciences of the United States of …
+  <br/>
+  citations: 
+  <b>231</b>
+  <br/>
+  <span class="inlinebar">5,24,22,26,16,9,14,16,14,11,13,10,16,21,8</span>
+</p>
+<p>
+  <b>Genome sequence analysis and characterization of recombinant enzymes from the thermoacidophilic archaeon Picrophilus torridus</b>
+  <br/>
+  <i>A Angelov</i>
+  <br/>
+  Niedersächsische Staats-und Universitätsbibliothek Göttingen
+  <br/>
+  citations: 
+  <b>2</b>
+  per year: 
+  2004
+  --&gt;
+  <span class="inlinebar">0,0,1,0,0,0,0,0,0,1,0,0,0,0,0</span>
+</p>
+</div> 
+<button class='collapsible'> 2005 </button> 
+<div class='content'> 
+<p>
+  <b>Properties of the recombinant glucose/galactose dehydrogenase from the extreme thermoacidophile, Picrophilus torridus</b>
+  <br/>
+  <i>A Angelov, O Fütterer, O Valerius, GH Braus, W Liebl</i>
+  <br/>
+  FEBS Journal
+  <br/>
+  citations: 
+  <b>40</b>
+  per year: 
+  2005
+  --&gt;
+  <span class="inlinebar">2,6,6,3,0,4,2,0,4,5,4,1,2,1</span>
+</p>
+<p>
+  <b>Life in hot acid around Ph 0: Lessons from the genome sequence of the extreme thermoacidophile Picrophilus torridus.</b>
+  <br/>
+  <i>A Angelov, O Fuetterer, H Liesegang, G Gottschalk, G Antranikian, ...</i>
+  <br/>
+  ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY
+  <br/>
+  citations: 
+  <b>0</b>
+  per year: 
+  2005
+  --&gt;
+  <span class="inlinebar">0,0,0,0,0,0,0,0,0,0,0,0,0,0</span>
+</p>
+</div> 
+<button class='collapsible'> 2006 </button> 
+<div class='content'> 
+<p>
+  <b>Insights into extreme thermoacidophily based on genome analysis of Picrophilus torridus and other thermoacidophilic archaea</b>
+  <br/>
+  <i>A Angelov, W Liebl</i>
+  <br/>
+  Journal of biotechnology
+  <br/>
+  citations: 
+  <b>50</b>
+  per year: 
+  2006
+  --&gt;
+  <span class="inlinebar">0,3,2,2,4,7,7,5,3,3,5,5,3</span>
+</p>
+<p>
+  <b>Molecular and biochemical characterization of {alpha}-glucosidase and {alpha}-mannosidase and their clustered genes from the thermoacidophilic archaeon Picrophilus torridus</b>
+  <br/>
+  <i>A Angelov, M Putyrski, W Liebl</i>
+  <br/>
+  Journal of bacteriology
+  <br/>
+  citations: 
+  <b>36</b>
+  per year: 
+  2006
+  --&gt;
+  <span class="inlinebar">0,1,2,2,3,5,1,8,2,4,3,4,1</span>
+</p>
+</div> 
+    
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+</body>
+</html>
