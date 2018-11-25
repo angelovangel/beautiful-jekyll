@@ -4,25 +4,12 @@ published: yes
 subtitle: null
 layout: page
 ---
-<head>
-<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
-<script type="text/javascript" src="js/jquery.sparkline.js"></script>
-
-<script type="text/javascript">
-    $(function() {
-        /** This code runs when everything has been loaded on the page */
-        /* Inline sparklines take their values from the contents of the tag */
-        $('.inlinebar').sparkline('html', {type: 'bar'} ); 
-    })
-</script>
-</head>
 
 ## Lab Angelov   
 
 ### Publication highlights
 **for a complete list see [here](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/9248015/?sort=date&direction=descending)**
 <hr>   
-<span class="inlinebar">5,24,22,26,16,9,14,16,14,11,13,10,16,21,8</span>
 
 [**Variances in cellular sedimentation behavior as an effective enrichment method of
 hydrocarbon-overproducing _Micrococcus luteus_ strains**](https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-018-1286-6)    
