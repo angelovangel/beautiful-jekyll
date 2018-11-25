@@ -3,7 +3,8 @@ title: ''
 published: yes
 subtitle: null
 layout: page
-js: /js/jquery.sparkline.js 
+js: /js/jquery.sparkline.js
+js: /js/jquery.min.js
 ---
 
 ## Lab Angelov   
