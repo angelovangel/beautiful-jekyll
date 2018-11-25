@@ -3,8 +3,6 @@ title: ''
 published: yes
 subtitle: null
 layout: page
-js: /js/jquery.sparkline.js
-js: /js/jquery.min.js
 ---
 
 ## Lab Angelov   
@@ -12,8 +10,6 @@ js: /js/jquery.min.js
 ### Publication highlights
 **for a complete list see [here](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/9248015/?sort=date&direction=descending)**
 <hr>   
-<p>Sparkline: <span class="sparkline">1,4,6,6,8,5,3,5</span></p>
-$('.sparkline').sparkline();
 
 [**Variances in cellular sedimentation behavior as an effective enrichment method of
 hydrocarbon-overproducing _Micrococcus luteus_ strains**](https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-018-1286-6)    
