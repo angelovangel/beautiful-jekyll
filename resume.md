@@ -5,17 +5,22 @@ subtitle: null
 published: true
 ---
 ## Angel Angelov, PhD
-**+49-179-4853057 | angelov@tum.de**
+**+49-179-4853057 | angel.angelov@med.uni-tuebingen.de**
 
 ## EXPERIENCE
-	
-### 2008-present
+### 2019-present
+**Lab manager | NGS Competence Center Tübingen | Iniversitätsklinikum Tübingen | Germany**
+- Next Generation Sequencing (Illumina, Nanopore)
+- Microbial genomics and metagenomics
+- Lab automation
+
+### 2009-2019
 **Group leader | Technical University of Munich | Germany**
 - Design and screening of metagenomic libraries, (meta)genome sequence analysis
 - Metabolic engineering of _Thermus thermophilus_ and _Micrococcus luteus_
 - Natural transformation in Gram-positive microorganisms
 
-### 2004-2008
+### 2004-2009
 **Postdoctoral fellow | Georg-August-University Göttingen | Germany**
 - Carbohydrate-active enzymes discovery and characterization
 - Microbial genome sequence analysis
