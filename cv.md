@@ -9,15 +9,8 @@ layout: page
 
 ***
 ## Angel Angelov
-Emil-Ramann-Str. 4  
-85354-Freising   
-Germany  
-  
-+49-8161-715444   
-+49-179-4853057   
-angelov@tum.de
-
-
+NGS Competence Center Tübingen   
+angel.angelov[at]med.uni-tuebingen.de
 ***
 
 Education
@@ -43,8 +36,9 @@ Research interests
 
 Experience
 -------------
+**Since 2019** \| **Scientist**, NGS Competence Center Tübingen, Institute of Medical Microbiology and Hygiene, University Hospital Tübingen 
 
-**Since 2008** \| **Group leader**, [Department of Microbiology](http://mibio.wzw.tum.de/index.php?id=4), Technical University of Munich, Germany
+**2008-2019** \| **Group leader**, [Department of Microbiology](http://mibio.wzw.tum.de/index.php?id=4), Technical University of Munich, Germany
 
 *Research topics*
 * Screening, purification and biochemical characterization of polysaccharide-degrading enzymes from extremophilic microorganisms and from metagenomic libraries
