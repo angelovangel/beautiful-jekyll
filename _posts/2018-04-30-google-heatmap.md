@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Interactive heatmap of your google location history
+image: /img/screenshot1.png
 date: '2018-04-30'
 ---
 
