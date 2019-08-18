@@ -106,7 +106,7 @@ Numerous ad hoc reviews for the journals Applied and Environmental Microbiology,
 
 Selected pulications
 -----------------
-*for a complete list see my [google scholar](https://scholar.google.com/citations?user=J7YO6I4AAAAJ) or [pubmed](https://www.ncbi.nlm.nih.gov/labs/bibliography/angel.angelov.1/bibliography/public/) profile*
+*for a complete list see my [google scholar](https://scholar.google.com/citations?user=J7YO6I4AAAAJ) or [pubmed](https://www.ncbi.nlm.nih.gov/myncbi/angel.angelov.1/bibliography/public/) profile*
 
 Angelov A, Übelacker M, Liebl W.    
 [Variances in cellular sedimentation behavior as an effective enrichment method of hydrocarbon-overproducing *Micrococcus luteus* strains](https://www.ncbi.nlm.nih.gov/pubmed/30377447)   

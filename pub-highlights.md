@@ -5,10 +5,9 @@ subtitle: null
 layout: page
 ---
 
-## Lab Angelov   
 
 ### Publication highlights
-**for a complete list see [here](https://www.ncbi.nlm.nih.gov/labs/bibliography/angel.angelov.1/bibliography/public/)**
+**for a complete list see [here](https://www.ncbi.nlm.nih.gov/myncbi/angel.angelov.1/bibliography/public/)**
 <hr>   
 
 [**Variances in cellular sedimentation behavior as an effective enrichment method of
