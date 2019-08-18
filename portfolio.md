@@ -18,6 +18,12 @@ Upload a text file with growth data (optical density, CFU, etc. *vs* time) and o
 
 ***
 
+#### [tidydrc](https://github.com/angelovangel/tidydrc)   
+
+Tidy modelling of dose-response relationships with the [`drc`](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146021) package in R
+
+***
+
 #### [cazytable](http://35.176.52.165/shiny/rstudio/cazytable/)
 
 Find CAZy (carbohydrate-active enzymes) modules in uploaded proteins. This application runs `hmmscan` from the [HMMER package](http://hmmer.org/) in the background to find CAZy modules in proteins and generates interactive tables with the results. Bacterial-sized proteomes (~ 3-5000 proteins) can be analyzed in several minutes.   
