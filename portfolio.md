@@ -7,7 +7,8 @@ published: true
 
 ***
 
-This is just a collection of links to Shiny apps as well as some packages I have written. Most apps are running on a `R` server on the [Amazon cloud](https://aws.amazon.com/), so all you need to use them is a decent web browser. The programs listed here are (hopefully) useful helpers in the daily work in a biology lab, but there are also apps from completely different fields (like visualization of your Google location or of the [openflights](https://openflights.org/) data). Of course, all is open source and the code can be found on [GitHub](https://github.com/angelovangel).
+This is just a collection of links to Shiny apps as well as some packages I have written. Most apps are running on a `R` server on the [Amazon cloud](https://aws.amazon.com/), so all you need to use them is a decent web browser. The programs listed here are (hopefully) useful helpers in the daily work in a biology lab, but there are also apps from completely different fields (like visualization of your Google location or of the [openflights](https://openflights.org/) data). Of course, all is open source and the code can be found on [GitHub](https://github.com/angelovangel).   
+**Note**: *Currently, the amazon instance serving the apps is offline. You can use the apps by downloading them from github and running locally...*    
 
 ***
 
@@ -26,8 +27,8 @@ Tidy modelling of dose-response relationships with the [`drc`](https://journals.
 
 #### [cazytable](http://35.176.52.165/shiny/rstudio/cazytable/)
 
-Find CAZy (carbohydrate-active enzymes) modules in uploaded proteins. This application runs `hmmscan` from the [HMMER package](http://hmmer.org/) in the background to find CAZy modules in proteins and generates interactive tables with the results. Bacterial-sized proteomes (~ 3-5000 proteins) can be analyzed in several minutes.   
-**Note**: *while the local version runs OK on my laptop, the app on Amazon cloud often crashes ("disconnected form server" message). I am still investigating this bug, but found that it works if you reload the page and upload the same file a second time...* 
+Find CAZy (carbohydrate-active enzymes) modules in uploaded proteins. This application runs `hmmscan` from [HMMER](http://hmmer.org/) in the background to find CAZy modules in proteins and generates interactive tables with the results. Bacterial-sized proteomes (~ 3-5000 proteins) can be analyzed in several minutes.   
+
 
 ***
 
