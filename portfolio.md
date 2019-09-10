@@ -26,7 +26,7 @@ Tidy modelling of dose-response relationships with the [`drc`](https://journals.
 
 ***
 
-#### [cazytable](http://35.176.52.165/shiny/rstudio/cazytable/)
+#### [cazytable](http://165.22.73.243:3838/cazytable/)
 
 Find CAZy (carbohydrate-active enzymes) modules in uploaded proteins. This application runs `hmmscan` from [HMMER](http://hmmer.org/) in the background to find CAZy modules in proteins and generates interactive tables with the results. Bacterial-sized proteomes (~ 3-5000 proteins) can be analyzed in several minutes.   
 
