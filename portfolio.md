@@ -13,7 +13,7 @@ This is just a collection of links to Shiny apps as well as some packages I have
 ***
 
 #### [FitGrowth](http://165.22.73.243:3838/fitgrowth/)  
-:arrow_forward: Web app
+`:arrow_forward:` Web app
 
 Upload a text file with growth data (optical density, CFU, etc. *vs* time) and obtain the parameters of a logistic regression model.
 
