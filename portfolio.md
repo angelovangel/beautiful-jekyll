@@ -7,19 +7,18 @@ published: true
 
 ***
 
-This is just a collection of links to Shiny apps as well as some packages I have written. Most apps are running on a `R` server on the [Amazon cloud](https://aws.amazon.com/), so all you need to use them is a decent web browser. The programs listed here are (hopefully) useful helpers in the daily work in a biology lab, but there are also apps from completely different fields (like visualization of your Google location or of the [openflights](https://openflights.org/) data). Of course, all is open source and the code can be found on [GitHub](https://github.com/angelovangel).   
-**Note**: *Currently, the amazon instance serving the apps is offline. You can use the apps by downloading them from github and running locally...*    
+This is just a collection of links to Shiny apps as well as some packages I have written. Most apps are running on a `R` server in the cloud ([DigitalOcean](https://www.digitalocean.com/)), so all you need to use them is a decent web browser. The programs listed here are (hopefully) useful helpers in the daily work in a biology lab, but there are also apps from completely different fields, like visualization of your Google location or of the [openflights](https://openflights.org/) data. Of course, all is open source and the code can be found on [GitHub](https://github.com/angelovangel).   
+**Note**: *The DO instance serving the apps has only 1 CPU and 3 GB memory. However, you can also use the apps by downloading them from github and running locally...*    
 
 ***
 
-#### [FitGrowth](http://35.176.52.165/shiny/rstudio/FitGrowth/v03/)
+#### [FitGrowth](http://165.22.73.243:3838/fitgrowth/)  :arrow_forward: Web app
 
 Upload a text file with growth data (optical density, CFU, etc. *vs* time) and obtain the parameters of a logistic regression model.
-(Old version available [here](http://35.176.52.165/shiny/rstudio/FitGrowth/v01/)).
 
 ***
 
-#### [tidydrc](https://github.com/angelovangel/tidydrc)   
+#### [tidydrc](https://github.com/angelovangel/tidydrc) :arrow_down: R package   
 
 Tidy modelling of dose-response relationships with the [`drc`](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146021) package in R
 

@@ -23,16 +23,16 @@ description: mostly R
 
 # List of links in the navigation bar
 navbar-links:
-  About: 
+  About:
     - aboutme: "https://angelovangel.github.io/aboutme/"
     - cv: "https://angelovangel.github.io/cv"
     - resume: "https://angelovangel.github.io/resume"
     - publication highlights: "https://angelovangel.github.io/pub-highlights/"
-    - software: "https://angelovangel.github.io/portfolio"
   Resources:
     - papers (pubmed): "https://www.ncbi.nlm.nih.gov/myncbi/angel.angelov.1/bibliography/public/"
     - papers (google): "https://scholar.google.de/citations?hl=en&user=J7YO6I4AAAAJ"
-    - code: "https://github.com/angelovangel"
+    - GitHub: "https://github.com/angelovangel"
+    - software: "https://angelovangel.github.io/portfolio"
   Angel's lab: "https://www.medizin.uni-tuebingen.de/en/Research/Research+Infrastructure/NCCT+%28NGS+Competence+Center+T%C3%BCbingen%29+.html"
   LinkedIn profile: "https://www.linkedin.com/in/angel-angelov-8816603b/"
 
@@ -53,7 +53,7 @@ author:
   email: "aangeloo@gmail.com"
   github: angelovangel    # eg. daattali
   linkedin: yourname  # eg. daattali
-  
+
 
 # Select which links to show in the footer
 footer-links-active:
