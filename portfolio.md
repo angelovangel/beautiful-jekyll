@@ -12,7 +12,7 @@ This is just a collection of links to Shiny apps as well as some packages I have
 
 ***
 
-#### [FitGrowth](http://165.22.73.243:3838/fitgrowth/)  
+#### [FitGrowth](http://165.22.73.243/fitgrowth/)  
 
 Upload a text file with growth data (optical density, CFU, etc. *vs* time) and obtain the parameters of a logistic regression model.
 
@@ -24,7 +24,7 @@ Tidy modelling of dose-response relationships with the [`drc`](https://journals.
 
 ***
 
-#### [cazytable](http://165.22.73.243:3838/cazytable/)
+#### [cazytable](http://165.22.73.243/cazytable/)
 
 Find CAZy (carbohydrate-active enzymes) modules in uploaded proteins. This application runs `hmmscan` from [HMMER](http://hmmer.org/) in the background to find CAZy modules in proteins and generates interactive tables with the results. Bacterial-sized proteomes (~ 3-5000 proteins) can be analyzed in several minutes.   
 
