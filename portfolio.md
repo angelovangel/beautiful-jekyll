@@ -25,41 +25,45 @@ Tidy modelling of dose-response relationships with the [`drc`](https://journals.
 ***
 
 ### cazytable   
-[web app](http://165.22.73.243/cazytable/) | [source code not available](#)
+[web app](http://165.22.73.243/cazytable/) | [source code *not available*](#)
 
 Find CAZy (carbohydrate-active enzymes) modules in uploaded proteins. This application runs `hmmscan` from [HMMER](http://hmmer.org/) in the background to find CAZy modules in proteins and generates interactive tables with the results. Bacterial-sized proteomes (~ 3-5000 proteins) can be analyzed in several minutes.   
 
 
 ***
 
-#### [TRACEview](#) 
+### TRACEview
+[web app](#) | [source code](https://github.com/angelovangel/TRACEview)
 
 Visualize a set of HPLC trace files (must be first exported to text files). For many samples, the traces can be stacked and a virtual thin layer chromatography (TLC) plate can be simulated.
 
 ***
 
-#### [facsR](http://165.22.73.243/facsR/)
+### facsR
+[web app](http://165.22.73.243/facsR/) | [source code](https://github.com/angelovangel/facsR)
 
 Fast plotting of FACS data. You will need the FCS files exported from your machine. The total amount of data you can upload is currently limited to 100 Mb. Source code is [here](https://github.com/angelovangel/facsR).
 
 ***
 
-#### [Heatmap of (your) Google location data](https://github.com/angelovangel/google-location-heatmap)
+### [Heatmap of (your) Google location data]
+[web app *not available*](#) | [source code](https://github.com/angelovangel/google-location-heatmap)
 
-Make a customizable and interactive heatmap of your location data from Google. First go to [Google takeout](https://takeout.google.com/settings/takeout) to download your Google location history. This app is not running on Amazon, because it generates too much traffic and would cost me too much. If you want to try it you'll have to follow the instructions in the link above. 
+Make a customizable and interactive heatmap of your location data from Google. First go to [Google takeout](https://takeout.google.com/settings/takeout) to download your Google location history. This app is not running in the cloud, because it generates too much traffic and would cost me too much. If you want to use it you'll have to follow the instructions in the link above. 
 
 ***
 
-#### [Interactive map of the openflights data (airports, airlines, routes)](#)
+### Interactive map of the openflights data (airports, airlines, routes)
+[web app](#) | [source code](https://github.com/angelovangel/openflights)
 
 The name says it all. The openflights dataset used in the app is available [here](https://github.com/jpatokal/openflights).
 
 ***
 
-#### [Live aircraft tracking](http://35.176.52.165/shiny/rstudio/opensky-live/)
+### Live aircraft tracking
+[web app *currently not working*](#) | [source code not available](#)
 
 Real time flight paths from all over the world (or at least where [ADS-B and Mode S systems](https://en.wikipedia.org/wiki/Automatic_dependent_surveillance_%E2%80%93_broadcast) are available). The live data is fetched from the [opensky network](https://opensky-network.org/) and from [ADS-B Exchange](https://www.adsbexchange.com/) in ~5 sec intervals.
-
 
 ***
 
