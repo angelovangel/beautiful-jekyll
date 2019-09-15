@@ -11,20 +11,21 @@ This is just a collection of links to Shiny apps as well as some packages I have
 **Note**: *The DO instance serving the apps has only 1 CPU and 3 GB memory. However, you can also use the apps by downloading them from github and running locally...*    
 
 ***
-
-#### [FitGrowth](http://165.22.73.243/fitgrowth/)  
+### FitGrowth
+[web app](http://165.22.73.243/fitgrowth) | [source code](https://github.com/angelovangel/FitGrowth)
 
 Upload a text file with growth data (optical density, CFU, etc. *vs* time) and obtain the parameters of a logistic regression model.
-
 ***
 
-#### [tidydrc](https://github.com/angelovangel/tidydrc) 
+### tidydrc  
+R package | [source code](https://github.com/angelovangel/tidydrc)
 
 Tidy modelling of dose-response relationships with the [`drc`](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146021) package in R
 
 ***
 
-#### [cazytable](http://165.22.73.243/cazytable/)
+### cazytable   
+[web app](http://165.22.73.243/cazytable/) | [source code not available](#)
 
 Find CAZy (carbohydrate-active enzymes) modules in uploaded proteins. This application runs `hmmscan` from [HMMER](http://hmmer.org/) in the background to find CAZy modules in proteins and generates interactive tables with the results. Bacterial-sized proteomes (~ 3-5000 proteins) can be analyzed in several minutes.   
 
