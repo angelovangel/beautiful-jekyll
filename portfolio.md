@@ -31,15 +31,15 @@ Find CAZy (carbohydrate-active enzymes) modules in uploaded proteins. This appli
 
 ***
 
-#### [TRACEview](http://35.176.52.165/shiny/rstudio/TRACEview/) 
+#### [TRACEview](#) 
 
 Visualize a set of HPLC trace files (must be first exported to text files). For many samples, the traces can be stacked and a virtual thin layer chromatography (TLC) plate can be simulated.
 
 ***
 
-#### [facsR](http://35.176.52.165/shiny/rstudio/facsR/)
+#### [facsR](http://165.22.73.243/facsR/)
 
-Fast plotting of FACS data. You will need the FCS files exported from your machine. The total amount of data you can upload is currently limited to 100 Mb.
+Fast plotting of FACS data. You will need the FCS files exported from your machine. The total amount of data you can upload is currently limited to 100 Mb. Source code is [here](https://github.com/angelovangel/facsR).
 
 ***
 
@@ -49,7 +49,7 @@ Make a customizable and interactive heatmap of your location data from Google. F
 
 ***
 
-#### [Interactive map of the openflights data (airports, airlines, routes)](http://35.176.52.165/shiny/rstudio/openflights/)
+#### [Interactive map of the openflights data (airports, airlines, routes)](#)
 
 The name says it all. The openflights dataset used in the app is available [here](https://github.com/jpatokal/openflights).
 
