@@ -11,10 +11,12 @@ This is just a collection of links to Shiny apps as well as some packages I have
 **Note**: *The DO instance serving the apps has only 1 CPU and 3 GB memory. However, you can also use the apps by downloading them from github and running locally...*    
 
 ***
+
 ### FitGrowth
 [web app](http://165.22.73.243/fitgrowth) | [source code](https://github.com/angelovangel/FitGrowth)
 
 Upload a text file with growth data (optical density, CFU, etc. *vs* time) and obtain the parameters of a logistic regression model.
+
 ***
 
 ### tidydrc  
