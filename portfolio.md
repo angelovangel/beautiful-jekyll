@@ -7,7 +7,7 @@ published: true
 
 ***
 
-This is just a collection of links to Shiny apps as well as some packages I have written. Most apps are running on a `R` server in the cloud ([DigitalOcean](https://www.digitalocean.com/)), so all you need to use them is a decent web browser. The programs listed here are (hopefully) useful helpers in the daily work in a biology lab, but there are also apps from completely different fields, like visualization of your Google location or of the [openflights](https://openflights.org/) data. Of course, all is open source and the code can be found on [GitHub](https://github.com/angelovangel).   
+This is just a collection of links to Shiny apps as well as some R packages I have written. Most apps are running on a server in the cloud ([DigitalOcean](https://www.digitalocean.com/)), so all you need to use them is a decent web browser. The programs listed here are (hopefully) useful helpers in the daily work in a biology lab, but there are also apps from completely different fields, like visualization of your Google location or of the [openflights](https://openflights.org/) data. Of course, all is open source and the code can be found on [GitHub](https://github.com/angelovangel).   
 **Note**: *The DO instance serving the apps has only 1 CPU and 3 GB memory. However, you can also use the apps by downloading them from github and running locally...*    
 
 ***
@@ -35,7 +35,7 @@ Find CAZy (carbohydrate-active enzymes) modules in uploaded proteins. This appli
 ***
 
 ### TRACEview
-[web app](#) | [source code](https://github.com/angelovangel/TRACEview)
+[web app](http://165.22.73.243/traceview/) | [source code](https://github.com/angelovangel/TRACEview)
 
 Visualize a set of HPLC trace files (must be first exported to text files). For many samples, the traces can be stacked and a virtual thin layer chromatography (TLC) plate can be simulated.
 
