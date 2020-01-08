@@ -36,9 +36,9 @@ published: true
 - Viral load analysis in HIV patients
 
 ## SKILLS
+- **Programming and data analysis:** advanced R, Shiny app development, Git, Markdown, bash. [Portfolio](https://angelovangel.github.io/portfolio). 
 - **Microbiology and genetics:** extremophilic microorganisms, metagenomics, carbohydrate-active enzymes, development of genetic tools, metabolic engineering, natural transformation.
 - **Analytical techniques:** various chromatography and spectrometry techniques (FPLC, HPLC, GC-MS), Sanger and NGS, automated liquid handling systems
-- **Programming and data analysis:** advanced R, Shiny app development, Git, Markdown, bash. [Portfolio](https://angelovangel.github.io/portfolio). 
 - **Teaching:** supervision of Bachelor, Master and PhD students, courses in protein purification and R for life sciences.
 - **Languages:** English (fluent), German (fluent), Bulgarian (native).
 
