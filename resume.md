@@ -32,26 +32,22 @@ published: true
 
 ### 2000-2001
 **Research assistant | National Centre of Infectious and Parasitic Diseases | Sofia, Bulgaria**
-- Genotype variation and population genetics of HIV 
+- Genotype variation and population genetics of HIV
 - Viral load analysis in HIV patients
 
 ## SKILLS
+- **Programming and data analysis:** advanced R, Shiny app development, Git, Markdown, bash. [Portfolio](https://angelovangel.github.io/portfolio). 
 - **Microbiology and genetics:** extremophilic microorganisms, metagenomics, carbohydrate-active enzymes, development of genetic tools, metabolic engineering, natural transformation.
 - **Analytical techniques:** various chromatography and spectrometry techniques (FPLC, HPLC, GC-MS), Sanger and NGS, automated liquid handling systems
-- **Programming and data analysis:** advanced R, Shiny app development, Git, Markdown, bash. [Portfolio](https://angelovangel.github.io/portfolio). 
 - **Teaching:** supervision of Bachelor, Master and PhD students, courses in protein purification and R for life sciences.
 - **Languages:** English (fluent), German (fluent), Bulgarian (native).
 
 ## EDUCATION
 **2004, PhD in Microbiology and Bioinformatics** (_magna cum laude_)   
-Georg-August-University Göttingen | Göttingen, Germany 
+Georg-August-University Göttingen | Göttingen, Germany
 
 **1999, Diploma in Molecular biology and Genetics** (_excellent, 5.83 out of 6.0_)  
 St. Kliment Ohridski University | Sofia, Bulgaria
 
 **1993, Abitur** (_1.0, equivalent to A_)   
 English Language School | Pravetz, Bulgaria
-
-
-
-
