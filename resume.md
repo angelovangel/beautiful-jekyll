@@ -11,7 +11,8 @@ published: true
 ### 2019-present
 **Lab manager | NGS Competence Center Tübingen | Iniversitätsklinikum Tübingen | Germany**
 - Next Generation Sequencing (Illumina, Nanopore)
-- Microbial genomics and metagenomics
+- NGS data processing and analysis, bioinformatics pipeleline development
+- Genomics and metagenomics
 - Lab automation
 
 ### 2009-2019
@@ -36,9 +37,9 @@ published: true
 - Viral load analysis in HIV patients
 
 ## SKILLS
-- **Programming and data analysis:** advanced R, Shiny app development, Git, Markdown, bash. [Portfolio](https://angelovangel.github.io/portfolio). 
-- **Microbiology and genetics:** extremophilic microorganisms, metagenomics, carbohydrate-active enzymes, development of genetic tools, metabolic engineering, natural transformation.
-- **Analytical techniques:** various chromatography and spectrometry techniques (FPLC, HPLC, GC-MS), Sanger and NGS, automated liquid handling systems
+- **Programming and data analysis:** advanced R, Shiny, bash, aws, git, nextflow pipelines development. [Portfolio](https://angelovangel.github.io/portfolio), [GitHub repositories](https://github.com/angelovangel). 
+- **Microbiology and genetics:** extremophilic microorganisms, comparative genomics, metagenomics, carbohydrate-active enzymes, development of genetic tools, metabolic engineering, natural transformation.
+- **Analytical techniques:** NGS (all platforms), proteomics, various chromatography and spectrometry techniques (FPLC, HPLC, GC-MS), automated liquid handling systems
 - **Teaching:** supervision of Bachelor, Master and PhD students, courses in protein purification and R for life sciences.
 - **Languages:** English (fluent), German (fluent), Bulgarian (native).
 
