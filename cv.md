@@ -121,6 +121,15 @@ Selected publications
 Jarzab A, Kurzawa N, Hopf T, Moerch M, Zecha J, Leijten N, Bian Y, Musiol E, Maschberger M, Stoehr G, Becher I, Daly C, Samaras P, Mergner J, Spanier B, <u>Angelov A</u>, Werner T, Bantscheff M, Wilhelm M, Klingenspor M, Lemeer S, Liebl W, Hahne H, Savitski MM, Kuster B.    
 [Meltome atlas-thermal proteome stability across the tree of life](https://www.nature.com/articles/s41592-020-0801-4). **Nat Methods.** 2020 May;17(5):495-503
 
+Surger M, <u>Angelov A</u>, Liebl W.   
+[Distribution and diversity of olefins and olefin-biosynthesis genes in Gram-positive bacteria](https://pubmed.ncbi.nlm.nih.gov/32313552/)   
+**Biotechnol Biofuels.** 2020;13:70.
+
+Lichev A, <u>Angelov A</u>, Cucurull I, Liebl W.   
+[Amino acids as nutritional factors and (p)ppGpp as an alarmone of the stringent response regulate natural transformation in _Micrococcus luteus_](https://pubmed.ncbi.nlm.nih.gov/31363120/)    
+**Sci Rep.** 2019 Jul 30;9(1):11030
+
+
 <u>Angelov A</u>, Übelacker M, Liebl W.    
 [Variances in cellular sedimentation behavior as an effective enrichment method of hydrocarbon-overproducing *Micrococcus luteus* strains](https://www.ncbi.nlm.nih.gov/pubmed/30377447)   
 **Biotechnol Biofuels**. 2018 ;11:288
@@ -142,7 +151,7 @@ Schiefner A, <u>Angelov A</u>, Liebl W, Skerra A.
 **Systematic and applied microbiology**. 2013; 36(8):585-92
 
 <u>Angelov A</u>, Loderer C, Pompei S, Liebl W.   
-[Novel family of carbohydrate-binding modules revealed by the genome sequence of Spirochaeta thermophila DSM 6192](https://www.ncbi.nlm.nih.gov/pubmed/21685171).    
+[Novel family of carbohydrate-binding modules revealed by the genome sequence of _Spirochaeta thermophila_ DSM 6192](https://www.ncbi.nlm.nih.gov/pubmed/21685171).    
 **Applied and environmental microbiology**. 2011; 77(15):5483-9
 
 <u>Angelov A</u>, Mientus M, Liebl S, Liebl W.    
