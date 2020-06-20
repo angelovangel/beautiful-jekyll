@@ -1,0 +1,76 @@
+---
+layout: post
+published: true
+title: Easy suffix for large numbers, everywhere
+date: '2020-06-19'
+---
+
+# The problem
+
+Often I need to suffix large numbers with `k`, `M`, `G` ... e.g. for printing number of reads or bases in sequencing runs. While there are options in many languages for this, I needed a general soluiton which can be used in all contexts - shell, python, R, shiny apps, nextflow etc.  
+
+# The solution
+
+Use the `korn` shell! 
+
+It turned out that this shell has a variation of `printf` which has inbuilt abilities to do exactly this, using the `%#d` as format specification. Interestingly, other shells (`bash` and `zsh` tested) do not have this `printf` flavour. An example:
+
+```sh
+# switch to ksh
+$ printf "%#d\n" 1234567
+1.2M
+
+# and even this
+printf "%#d\n" 1234 1234567 1.23e9
+1.2k
+1.2M
+1.2G
+```
+Might sound a bit strange at first, but it is a general solution which can easily be used in any context. For example, here is how I use it in `R`:
+
+- write a small ksh script and put it in your path, I've called mine `si_format.sh`
+
+```sh
+#!/usr/bin/env ksh
+
+printf "%#d\n" "$@" 
+```
+
+- in `R`, I use it like this
+```sh
+# system call to the ksh script
+system2("bin/si_format.sh", c(12345, 12345678), stdout = T)
+[1] "12k" "12M"
+
+# pack it in a function
+si_fmt <- function(x) {system2("bin/si_format.sh", x, stdout = TRUE) }
+
+runif(10, 1e3, 1e7) %>% si_fmt()
+ [1] "7.3M" "7.4M" "8.0M" "6.6M" "1.4M" "7.0M" "874k" "4.2M" "9.3M" "9.5M"
+
+# use in tidy workflows
+df <- data.frame(
+     a = runif(10, 1e3, 1e6), 
+     b = runif(10, 1e6, 1e8)
+     )
+df
+         a        b
+1 222739.1  1691506
+2 492221.2 41578973
+3 232525.8 66668424
+4 871410.3 21227623
+5 142999.3 91327876
+
+df %>% 
+mutate(a = si_fmt(a), b = si_fmt(b))
+     a    b
+1 223k 1.7M
+2 492k  42M
+3 233k  67M
+4 871k  21M
+5 143k  91M
+```
+
+Also, `ksh` is already available on most unix systems by default, so no need to use external stuff.
+
+Enjoy!
