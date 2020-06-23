@@ -19,7 +19,7 @@ Education
 
 **2001-2004** \| **PhD, Microbiology and Bioinformatics**; [Georg-August-University Göttingen](https://www.uni-goettingen.de/)
 
-*Thesis title:* Genome sequence analysis and characterization of recombinant enzymes from the 
+*Thesis title:* Genome sequence analysis and characterization of recombinant enzymes from the
 thermoacidophilic archaeon *Picrophilus torridus*
 
 **1993-1999** \| **MSc, Molecular biology and Genetics**; [St. Kliment Ohridski University](https://www.uni-sofia.bg/eng) (Sofia, Bulgaria)
@@ -28,8 +28,8 @@ thermoacidophilic archaeon *Picrophilus torridus*
 
 Research interests
 --------------------------
-  * microbial genomics, metagenomics and genetics 
-  * NGS technologies 
+  * microbial genomics, metagenomics and genetics
+  * NGS technologies, bioinformatics
   * metabolic and enzyme engineering, carbohydrate-active enzymes
   * natural transformation
 
@@ -38,7 +38,7 @@ Research interests
 Experience
 -------------
 
-**Since 2019** \| **Scientist**, [NGS Competence Center Tübingen](https://portal.qbic.uni-tuebingen.de/portal/web/ncct/ncct_welcome), Institute of Medical Microbiology and Hygiene, University Hospital Tübingen 
+**Since 2019** \| **Scientist**, [NGS Competence Center Tübingen](https://portal.qbic.uni-tuebingen.de/portal/web/ncct/ncct_welcome), Institute of Medical Microbiology and Hygiene, University Hospital Tübingen
 
 * Bioinformatics pipeline development
 * Lab and project management, consulting
@@ -47,6 +47,7 @@ Experience
 
 **2009-2019** \| **Group leader**, [Department of Microbiology](http://mibio.wzw.tum.de/index.php?id=4), Technical University of Munich, Germany
 
+* Development of new tools for metagenomic library construction
 * Screening, purification and biochemical characterization of polysaccharide-degrading enzymes from extremophilic microorganisms and from metagenomic libraries
 * Natural transformation in Gram-positive microorganisms
 * Metabolic engineering of *Thermus thermophilus* and *Micrococcus luteus*
@@ -72,8 +73,8 @@ Experience
 Fields of expertise
 --------------------
 
-**Bioinformatics**  
-Analysis of NGS and proteomics data, focus on metagenomics, genome sequence assembly and annotation, differential gene expression. Pipeline development. 
+**Programming and data analysis**  
+Advanced NGS and proteomics data analysis, focus on metagenomics, genome sequence assembly and annotation, differential gene expression. Bioinformatics pipeline development. Expertise in R, Shiny, shell scripting, aws, git, docker, nextflow.
 
 **R programming language**  
 Exploratory data analysis, visualization and modelling. Shiny app development
@@ -105,11 +106,11 @@ German - fluent
 
 Peer review and editing
 ----------------------
-**Since 2013** \| Assistant Editor, [Frontiers in Systems Microbiology](https://www.frontiersin.org/journals/microbiology/sections/systems-microbiology)   
+**Since 2013** \| Assistant Editor, [Frontiers in Systems Microbiology](https://www.frontiersin.org/journals/microbiology/sections/systems-microbiology) (28 editorial contributions)  
 **Since 2012** \| Reviewer, [American Journal Experts](https://www.aje.com)   
 **Since 2013** \| Reviewer, [Frontiers in Microbiology](https://www.frontiersin.org/journals/microbiology)   
 
-Numerous _ad hoc reviews_ for the journals Applied and Environmental Microbiology, Journal of Bacteriology, Extremophiles, Biotechnology for Biofuels, BMC Genomics, Systematic and Applied Microbiology, Scientific Reports ...
+Numerous _ad hoc reviews_ for the journals Applied and Environmental Microbiology, Journal of Bacteriology, Extremophiles, Biotechnology for Biofuels, BMC Genomics, Systematic and Applied Microbiology, Scientific Reports and other journals.
 
 ***
 
@@ -161,4 +162,3 @@ Schiefner A, <u>Angelov A</u>, Liebl W, Skerra A.
 Fütterer O, <u>Angelov A</u>, Liesegang H, Gottschalk G, Schleper C, Schepers B, Dock C, Antranikian G, Liebl W.   
 [Genome sequence of Picrophilus torridus and its implications for life around pH 0](https://www.ncbi.nlm.nih.gov/pubmed/15184674).   
 **PNAS**. 2004; 101(24):9091-6
-
