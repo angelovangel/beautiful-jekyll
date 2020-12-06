@@ -9,7 +9,8 @@ published: true
 
 ## EXPERIENCE
 ### 2019-present
-**Lab manager | NGS Competence Center Tübingen | Iniversitätsklinikum Tübingen | Germany**
+**Scientist | NGS Competence Center Tübingen | Iniversitätsklinikum Tübingen | Germany**
+
 - Next Generation Sequencing (Illumina, Nanopore)
 - NGS data processing and analysis, bioinformatics pipeleline development
 - Genomics and metagenomics
@@ -17,6 +18,7 @@ published: true
 
 ### 2009-2019
 **Group leader | Technical University of Munich | Germany**
+
 - Design and screening of metagenomic libraries, (meta)genome sequence analysis
 - Metabolic engineering of _Thermus thermophilus_ and _Micrococcus luteus_
 - Natural transformation in Gram-positive microorganisms
