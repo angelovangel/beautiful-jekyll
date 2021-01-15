@@ -9,7 +9,7 @@ published: true
 
 ## EXPERIENCE
 ### 2019-present
-**Scientist | NGS Competence Center Tübingen | Iniversitätsklinikum Tübingen | Germany**
+**Scientist | NGS Competence Center Tübingen | Universitätsklinikum Tübingen | Germany**
 
 - Next Generation Sequencing (Illumina, Nanopore)
 - NGS data processing and analysis, bioinformatics pipeleline development
